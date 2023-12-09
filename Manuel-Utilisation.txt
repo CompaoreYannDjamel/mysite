@@ -1,0 +1,33 @@
+=======================================
+Exécuter le projet
+=======================================
+
+Étape 1 : Ouvrez l'invite de commande où manage.py existe. (Dans mysite)
+
+Étape 2 : pip install -r requirements.txt
+
+Étape 3 : serveur d'exécution python manage.py
+
+
+Allez à - http://127.0.0.1:8000/
+
+
+=======================================
+Manuel de l'Utilisateur
+=======================================
+
+http://127.0.0.1:8000/
+
+Vous verrez les catégories sur la page d'accueil. Cliquez sur n'importe quelle catégorie et vous verrez la série.
+
+
+
+http://127.0.0.1:8000/admin/ --- Connectez-vous avec un compte superutilisateur
+
+	nom: utilisateur
+	mot de passe :Yann2021
+
+Ajoutez ensuite des catégories et des séries. Après cela, ajoutez des tutoriels.
+
+
+Chaque série doit avoir des tutoriels.
